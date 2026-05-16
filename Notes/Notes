@@ -1,0 +1,18 @@
+                             <!--? What is react -->
+
+<!--* React is a js libarary for building fast and interactive interfaces, developed by meta.  -->
+
+<!--* React is component-based, reusable, and uses a virtual DOM for better performance. -->
+
+                                <!--? Virtual DOM -->
+
+<!--* Virtual dom is create a copy of real dom and compare virtual dom with real dom.
+
+<!--* example:- ager hum button ke click per image change karwana chahte ha to virtual dom sirf usi button ke part ko change kre ga without site re rendering.  -->
+
+                                    <!--? JSX -->
+
+<!--* In react we write hmtl directly into the javascript. -->
+
+                                    <!--? Components  -->
+                                    components ko hum do tarah se bana sakte ha:- functional component and class component.                   
